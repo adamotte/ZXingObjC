@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name                        = "ZXingObjC"
   s.version                     = "2.0.2"
-  s.summary                     = "An Objective-C Port of ZXing."
+  s.summary                     = "An Objective-C (only iOS) Port of ZXing."
   s.homepage                    = "https://github.com/TheLevelUp/ZXingObjC"
   s.author                      = "ZXing team (http://code.google.com/p/zxing/people/list) and TheLevelUp"
 
